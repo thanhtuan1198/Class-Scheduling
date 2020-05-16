@@ -1,0 +1,491 @@
+[
+    {
+        "Subject": "Tri Tue Nhan Tao",
+        "Type": "L",
+        "Professor": "Mr.Cuong",
+        "Groups": [
+            "305",
+            "306"
+        ],
+        "Classroom": [
+            "B201",
+            "B202",
+            "B203",
+            "B204",
+            "B205"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "B205",
+        "Assigned_time": 36
+    },
+    {
+        "Subject": "Tri Tue Nhan Tao",
+        "Type": "L",
+        "Professor": "Mr.Cuong",
+        "Groups": [
+            "307",
+            "308"
+        ],
+        "Classroom": [
+            "B201",
+            "B202",
+            "B203",
+            "B204",
+            "B205"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "B201",
+        "Assigned_time": 48
+    },
+    {
+        "Subject": "Hoc may",
+        "Type": "L",
+        "Professor": "Mr.Cuong",
+        "Groups": [
+            "301",
+            "302"
+        ],
+        "Classroom": [
+            "B201",
+            "B202",
+            "B203",
+            "B204",
+            "B205"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "B203",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Hoc may",
+        "Type": "L",
+        "Professor": "Mr.Cuong",
+        "Groups": [
+            "303",
+            "304"
+        ],
+        "Classroom": [
+            "B201",
+            "B202",
+            "B203",
+            "B204",
+            "B205"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "B205",
+        "Assigned_time": 3
+    },
+    {
+        "Subject": "Quan tri he co so du lieu",
+        "Type": "L",
+        "Professor": "Mrs.Nhung",
+        "Groups": [
+            "2s1",
+            "2s2"
+        ],
+        "Classroom": [
+            "C201",
+            "C202",
+            "C203",
+            "C204",
+            "C205"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "C201",
+        "Assigned_time": 48
+    },
+    {
+        "Subject": "Xu ly du lieu lon",
+        "Type": "L",
+        "Professor": "Mr.Cuong",
+        "Groups": [
+            "310",
+            "310a"
+        ],
+        "Classroom": [
+            "B201",
+            "B202",
+            "B203",
+            "B204",
+            "B205"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "B201",
+        "Assigned_time": 6
+    },
+    {
+        "Subject": "Xu ly du lieu lon",
+        "Type": "L",
+        "Professor": "Mr.Cuong",
+        "Groups": [
+            "309",
+            "309a"
+        ],
+        "Classroom": [
+            "B201",
+            "B202",
+            "B203",
+            "B204",
+            "B205"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "B205",
+        "Assigned_time": 56
+    },
+    {
+        "Subject": "Quan tri he thong thong tin",
+        "Type": "L",
+        "Professor": "Mr.Manh",
+        "Groups": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "309a",
+            "2s1",
+            "2s2"
+        ],
+        "Classroom": [
+            "C201",
+            "C202",
+            "C203",
+            "C204",
+            "C205"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "C204",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "IT & Chuoi cung ung",
+        "Type": "L",
+        "Professor": "Mr.Manh",
+        "Groups": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "309a",
+            "2s1",
+            "2s2"
+        ],
+        "Classroom": [
+            "B201",
+            "B202",
+            "B203",
+            "B204",
+            "B205"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "B203",
+        "Assigned_time": 39
+    },
+    {
+        "Subject": "IT & Quan he khach hang",
+        "Type": "L",
+        "Professor": "Mr.Manh",
+        "Groups": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "309a",
+            "2s1",
+            "2s2"
+        ],
+        "Classroom": [
+            "B201",
+            "B202",
+            "B203",
+            "B204",
+            "B205"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "B202",
+        "Assigned_time": 12
+    },
+    {
+        "Subject": "Cong nghe phan mem",
+        "Type": "L",
+        "Professor": "Mr.Hong",
+        "Groups": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309"
+        ],
+        "Classroom": [
+            "C201",
+            "C202",
+            "C203",
+            "C204",
+            "C205"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "C203",
+        "Assigned_time": 6
+    },
+    {
+        "Subject": "Chuyen de cong nghe phan mem",
+        "Type": "L",
+        "Professor": "Mr.Hong",
+        "Groups": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "2s1",
+            "2s2"
+        ],
+        "Classroom": [
+            "C201",
+            "C202",
+            "C203",
+            "C204",
+            "C205"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "C202",
+        "Assigned_time": 54
+    },
+    {
+        "Subject": "Phat trien ung dung di dong",
+        "Type": "L",
+        "Professor": "Mr.Hong",
+        "Groups": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "309a",
+            "2s1",
+            "2s2"
+        ],
+        "Classroom": [
+            "C201",
+            "C202",
+            "C203",
+            "C204",
+            "C205"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "C201",
+        "Assigned_time": 15
+    },
+    {
+        "Subject": "Co so du lieu phan tan",
+        "Type": "P",
+        "Professor": "Mrs.Nhung",
+        "Groups": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "309a",
+            "2s1",
+            "2s2"
+        ],
+        "Classroom": [
+            "A501",
+            "A502",
+            "A503"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "A502",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Phuong phap lap trinh",
+        "Type": "L",
+        "Professor": "Mr.Vinh",
+        "Groups": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "309a",
+            "2s1",
+            "2s2"
+        ],
+        "Classroom": [
+            "B201",
+            "B202",
+            "B203",
+            "B204",
+            "B205"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "B203",
+        "Assigned_time": 18
+    },
+    {
+        "Subject": "Nhap mon mang may tinh",
+        "Type": "L",
+        "Professor": "Mr.Vinh",
+        "Groups": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "309a",
+            "2s1",
+            "2s2"
+        ],
+        "Classroom": [
+            "B201",
+            "B202",
+            "B203",
+            "B204",
+            "B205"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "B203",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "Lap trinh huong doi tuong",
+        "Type": "P",
+        "Professor": "Mr.Vinh",
+        "Groups": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "309a",
+            "2s1",
+            "2s2"
+        ],
+        "Classroom": [
+            "A501",
+            "A502",
+            "A503"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "A501",
+        "Assigned_time": 51
+    },
+    {
+        "Subject": "Kien truc huong dich vu",
+        "Type": "L",
+        "Professor": "Mr.Vinh",
+        "Groups": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "309a",
+            "2s1",
+            "2s2"
+        ],
+        "Classroom": [
+            "C201",
+            "C202",
+            "C203",
+            "C204",
+            "C205"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "C202",
+        "Assigned_time": 30
+    },
+    {
+        "Subject": "Giao thuc va mang may tinh",
+        "Type": "P",
+        "Professor": "Mr.Hong",
+        "Groups": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "309a",
+            "2s1",
+            "2s2"
+        ],
+        "Classroom": [
+            "A501",
+            "A502",
+            "A503"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "A501",
+        "Assigned_time": 42
+    },
+    {
+        "Subject": "Lap trinh web",
+        "Type": "P",
+        "Professor": "Mr.Manh",
+        "Groups": [
+            "301",
+            "302",
+            "306",
+            "308"
+        ],
+        "Classroom": [
+            "A501",
+            "A502",
+            "A503"
+        ],
+        "Length": "3",
+        "Assigned_classroom": "A501",
+        "Assigned_time": 3
+    }
+]
